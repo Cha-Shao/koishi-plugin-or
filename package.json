@@ -1,7 +1,7 @@
 {
   "name": "@yrchashao/koishi-plugin-or",
   "description": "选择困难帮助器",
-  "version": "0.0.1",
+  "version": "1.0.7",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -17,5 +17,10 @@
   ],
   "peerDependencies": {
     "koishi": "^4.13.6"
+  },
+  "koishi": {
+    "description": {
+      "zh": "选择困难帮助器"
+    }
   }
 }
